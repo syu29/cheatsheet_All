@@ -8,3 +8,8 @@ Macbookなどの端末やPythonなどのプログラミング言語すべての�
 ### Cording
 - Python
 - JavaScript
+
+### TextEdit
+- VisualStudioCode
+- markdown
+- vim
